@@ -8,7 +8,7 @@
   "numFailedTests": 0,
   "numPendingTests": 0,
   "numTodoTests": 0,
-  "startTime": 1703473026828,
+  "startTime": 1790708187469,
   "success": true,
   "testResults": [
     {
@@ -20,7 +20,7 @@
           "fullName": " Input alanına metin girdikçe hemen üstünde #output alanında metin görünüyor.",
           "status": "passed",
           "title": "Input alanına metin girdikçe hemen üstünde #output alanında metin görünüyor.",
-          "duration": 18,
+          "duration": 95,
           "failureMessages": []
         },
         {
@@ -30,7 +30,7 @@
           "fullName": " Input alanına girilen metinler #output alanında büyük harfe dönüştürülüyor.",
           "status": "passed",
           "title": "Input alanına girilen metinler #output alanında büyük harfe dönüştürülüyor.",
-          "duration": 4,
+          "duration": 20,
           "failureMessages": []
         },
         {
@@ -40,7 +40,7 @@
           "fullName": " Input alanına girilen metinler 10 karakterden küçükse yazı rengi royalblue oluyor",
           "status": "passed",
           "title": "Input alanına girilen metinler 10 karakterden küçükse yazı rengi royalblue oluyor",
-          "duration": 15,
+          "duration": 74,
           "failureMessages": []
         },
         {
@@ -50,7 +50,7 @@
           "fullName": " Input alanına girilen metinler 10 karakterden büyükse yazı rengi crimson oluyor",
           "status": "passed",
           "title": "Input alanına girilen metinler 10 karakterden büyükse yazı rengi crimson oluyor",
-          "duration": 7,
+          "duration": 23,
           "failureMessages": []
         },
         {
@@ -60,15 +60,15 @@
           "fullName": " Reset Butonu input alanının ve #output alanındaki metni sıfırlıyor",
           "status": "passed",
           "title": "Reset Butonu input alanının ve #output alanındaki metni sıfırlıyor",
-          "duration": 8,
+          "duration": 18,
           "failureMessages": []
         }
       ],
-      "startTime": 1703473632852,
-      "endTime": 1703473632904,
+      "startTime": 1790708190023,
+      "endTime": 1790708190254,
       "status": "passed",
       "message": "",
-      "name": "/home/projects/vitejs-vite-usrcsh/src/__tests__/Input.test.jsx"
+      "name": "C:/Users/pc/Documents/GitHub/FSWEB-S6D1-Task4/src/__tests__/Input.test.jsx"
     }
   ]
 }
